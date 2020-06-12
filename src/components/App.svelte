@@ -1,0 +1,1 @@
+<h1>Hello from Svelte component!</h1>
