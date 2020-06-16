@@ -1,1 +1,5 @@
-<h1>Hello from Svelte component!</h1>
+<script>
+  import StoreReactivity from './StoreReactivity.svelte'
+</script>
+
+<StoreReactivity />
